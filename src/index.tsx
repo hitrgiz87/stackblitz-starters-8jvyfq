@@ -9,6 +9,6 @@ const root = createRoot(document.getElementById('app'));
 
 root.render(
   <StrictMode>
-    <App />
+    <App name = 'Garrett Smith' />
   </StrictMode>
 );
