@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 1rem;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background: linear-gradient(
+    to top right,
+    rgba(30, 50, 101, 0.92),
+    rgba(226, 113, 113, 0.74)
+  );
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+h1 {
+  font-weight: 800;
+  font-size: 1.5rem;
+}
+
+.PFP {
+  transform: translateX(-500);
+}
